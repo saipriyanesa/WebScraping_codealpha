@@ -7,12 +7,15 @@ Collects and organizes relevant information automatically
 Stores scraped data in a Pandas DataFrame
 Exports data to CSV format for future analysis
 Demonstrates data collection and preprocessing techniques
+
+
 🛠 Technologies Used
 Python
 Requests
 BeautifulSoup4
 Pandas
 Google Colab
+
 📚 Learning Outcomes
 Understanding website structure and HTML tags
 Data extraction from web pages
