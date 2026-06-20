@@ -10,15 +10,15 @@ Demonstrates data collection and preprocessing techniques
 
 
 🛠 Technologies Used
-Python
-Requests
-BeautifulSoup4
-Pandas
-Google Colab
+1. Python
+2. Requests
+3. BeautifulSoup4
+4. Pandas
+5. Google Colab
 
 📚 Learning Outcomes
-Understanding website structure and HTML tags
-Data extraction from web pages
-Working with Python web scraping libraries
-Data cleaning and organization
-Exporting datasets for analysis
+1. Understanding website structure and HTML tags
+2. Data extraction from web pages
+3. Working with Python web scraping libraries
+4. Data cleaning and organization
+5. Exporting datasets for analysis
