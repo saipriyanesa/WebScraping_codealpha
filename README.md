@@ -1,12 +1,12 @@
 This project demonstrates the fundamentals of web scraping using Python. It extracts data from publicly available web pages, processes HTML content, and converts unstructured web data into a structured dataset for analysis.
 
 🚀 Features
-Extracts data from websites using Requests and BeautifulSoup
-Parses HTML elements and web page structure
-Collects and organizes relevant information automatically
-Stores scraped data in a Pandas DataFrame
-Exports data to CSV format for future analysis
-Demonstrates data collection and preprocessing techniques
+1. Extracts data from websites using Requests and BeautifulSoup
+2. Parses HTML elements and web page structure
+3. Collects and organizes relevant information automatically
+4. Stores scraped data in a Pandas DataFrame
+5. Exports data to CSV format for future analysis
+6. Demonstrates data collection and preprocessing techniques
 
 
 🛠 Technologies Used
